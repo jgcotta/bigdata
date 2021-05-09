@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\notebook"
   ],
-  "SelectedNode": "\\datasetSiniestro.csv",
+  "SelectedNode": "\\notebook\\NoteBookSiniestros.ipynb",
   "PreviewInSolutionExplorer": false
 }
